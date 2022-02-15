@@ -1,4 +1,4 @@
-html,
+1html,
 body {
   height: 100%;
   width: 100%;
@@ -134,8 +134,8 @@ img.profile-pic {
 	height: 8%;
 }
 
-.bg-color-grey {
-	background-color: #F2F2F2;
+.bg-color-red {
+	background-color: #ED1C24;
 }
 
 .bg-color-white {
